@@ -4,24 +4,19 @@ Java-based game using JavaFX. Player operates a turret that shoots honey-missile
 Skills: Java · JavaFX · Object-Oriented Programming (OOP) · Event Handling · Animation · IntelliJ · Maven  
 
 Game-play:  
-1. When the game opens, a title card is displayed. Moving the turret or firing makes the title card disappear so you can start playing.
-![image](https://github.com/acortes8/missile_combmand/assets/46253800/ca813e44-2d42-4225-b902-34dbdb5ab7b7)
+1. When the game opens, a title card is displayed. Moving the turret or firing makes the title card disappear so you can start playing.  
+![image](https://github.com/acortes8/missile_combmand/assets/46253800/ca813e44-2d42-4225-b902-34dbdb5ab7b7)  
 ![image](https://github.com/acortes8/missile_combmand/assets/46253800/8414f124-2cbc-4533-a436-6aa25862fef4)  
 2. Use the arrow keys to move your turret either left or right. and press space bar to fire a missile. Enemy missiles start raining down from the sky right away. Your objective is to survive as long as you can until you lose. Missiles randomly target beehives, and new missiles spawn as you shoot them down.  
-![image](https://github.com/acortes8/missile_combmand/assets/46253800/8b7008d9-6d3a-48ab-a55a-88dc5df13a36)
+![image](https://github.com/acortes8/missile_combmand/assets/46253800/8b7008d9-6d3a-48ab-a55a-88dc5df13a36)  
 3. Press space bar again, while the missile is in-flight and on-screen, to make it explode in-air. The explosion will take out any enemy missiles. The score count at the bottom-right corner of the screen will update with every missile you destroy.  
-![image](https://github.com/acortes8/missile_combmand/assets/46253800/88b16e1e-4295-427e-98e5-e94eb4319538)
-4. Prevent enemy missiles from reaching your beehives. If they reach a beehive, the enemy missiles explode, destroying that beehive.
-![image](https://github.com/acortes8/missile_combmand/assets/46253800/acb8b7d8-7b17-40b6-91f7-ea6229acc469)
-5. New enemy missiles will target whatever remaining beehives exist, ignoring the location of beehives they've already destroyed.
-![image](https://github.com/acortes8/missile_combmand/assets/46253800/97293934-eb59-4c1d-8c48-06c75b26716c)
-6. You lose once all beehives are destroyed. This will cause a defeated card to display. 
+![image](https://github.com/acortes8/missile_combmand/assets/46253800/88b16e1e-4295-427e-98e5-e94eb4319538)  
+4. Prevent enemy missiles from reaching your beehives. If they reach a beehive, the enemy missiles explode, destroying that beehive.  
+![image](https://github.com/acortes8/missile_combmand/assets/46253800/acb8b7d8-7b17-40b6-91f7-ea6229acc469)  
+5. New enemy missiles will target whatever remaining beehives exist, ignoring the location of beehives they've already destroyed.  
+![image](https://github.com/acortes8/missile_combmand/assets/46253800/97293934-eb59-4c1d-8c48-06c75b26716c)  
+6. You lose once all beehives are destroyed. This will cause a defeated card to display.  
 ![image](https://github.com/acortes8/missile_combmand/assets/46253800/57080b4b-7368-47b6-ae82-4c479b131437)  
-
-
-
-
-
 
 How to run using IntelliJ:  
 1. Open IntelliJ and traverse to projects home screen (save and close any current project you have open, if any).  
